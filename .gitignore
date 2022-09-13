@@ -1,0 +1,6 @@
+# vim and other editors
+
+*.swp
+*.lck
+*.tmp
+*~
